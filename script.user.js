@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         CARDS COM CORES CAPTACAO LOCACAO
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  try to take over the world!
 // @author       Iago Alencar
-// @match        https://bortoliniimoveis.bitrix24.com.br/crm/lead/kanban/
+// @match        https://bortoliniimoveis.bitrix24.com.br/crm/deal/kanban/category/71/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bitrix24.com.br
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/BortoliniImoveis/captacao-locacao-tampermonkey/main/script.user.js
